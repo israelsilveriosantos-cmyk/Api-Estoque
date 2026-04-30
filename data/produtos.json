@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "Notebook",
+        "preco": 2500.00,
+        "descricao": "Notebook Dell inspiron 15 polegadas",
+        "quantidade": 15,
+        "categoria": "Tech"
+    },
+    {
+        "id": 2,
+        "nome": "Mouse sem fio",
+        "preco": 89.90,
+        "descricao": "Mouse sem fio 2.4GHz",
+        "quantidade": 40,
+        "categoria": "Perifericos"
+    },
+    {
+        "id": 3,
+        "nome": "Teclado mecânico",
+        "preco": 349.00,
+        "descricao": "Teclado mecânico RGB ABNT2",
+        "quantidade": 20,
+        "categoria": "Perifericos"
+    }
+]
